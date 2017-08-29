@@ -1,0 +1,21 @@
+{
+    "name": "ylsopkok/utilphp",
+    "type": "library",
+    "version": "1.0.0",
+    "description": "util.php is a collection of useful functions and snippets that you need or could use every day",
+    "keywords": ["php", "utility", "collection", "helpers"],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "everyoung",
+            "email": "everyoung909@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "utilphp\\": "src/" }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
